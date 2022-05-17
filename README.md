@@ -7,7 +7,6 @@
 2. Stores‌ ‌multiple‌ ‌topologies‌ ‌in‌ ‌memory.‌ ‌
 3. Execute‌s ‌various operations‌ ‌on‌ ‌topologies.‌ ‌
 ‌
-A‌ ‌topology‌ ‌is‌ ‌a‌ ‌set‌ ‌of‌ ‌electronic‌ ‌components‌ ‌that‌ ‌are‌ ‌connected‌ ‌together.‌
 
 ## Requirements to build the project:
 1. CMake
