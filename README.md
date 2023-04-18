@@ -10,6 +10,7 @@
 ## Topology Specification
 A topology is a set of electronic components that are connected together. Topology input file samples can be found at `topology_input_files`.
 
+
 ## Functional Specifications
 Provide the functionality to:
 1. Read a topology from a given JSON file and store it in the memory.
