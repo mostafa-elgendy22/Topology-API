@@ -1,6 +1,6 @@
 # Topology-API
 
-## Brief:
+## Introduction
 ‌An‌ ‌API‌ ‌library‌ ‌which‌:‌ ‌
 1. Read‌s and‌ ‌write‌s ‌topologies‌ ‌to‌ ‌and‌ ‌from‌ ‌disk.‌ ‌
 2. Stores‌ ‌multiple‌ ‌topologies‌ ‌in‌ ‌memory.‌ ‌
@@ -33,18 +33,18 @@ a given topology.
 9. Check your code with a code analysis tool of your choice.
 
 
-## Requirements to build the project:
+## Requirements to build the project
 1. CMake
 2. MinGW
 
 
-## Running the program:
+## Running the program
 
 ```
 ./bin/topology_api_run
 ```
 
-## Running tests:
+## Running tests
 
 ```
 ./bin/topology_api_test
