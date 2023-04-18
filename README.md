@@ -28,9 +28,8 @@ a given topology.
 2. Use of managed pointers.
 3. Documentation on API level.
 4. Documentation on class level.
-7. Automatic testing on API level.
-8. Automatic testing on class level.
-9. Check your code with a code analysis tool of your choice.
+5. Automatic testing on API level.
+6. Automatic testing on class level.
 
 
 ## Requirements to build the project
